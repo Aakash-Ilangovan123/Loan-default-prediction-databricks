@@ -8,7 +8,7 @@
 ![PySpark](https://img.shields.io/badge/PySpark-3.5-E25A1C?logo=apachespark)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?logo=scikitlearn)
 
-> **Codebasics Data Engineering Challenge** — Built without AWS using Databricks Serverless
+> **Codebasics Data Engineering Challenge** — Built using Databricks Serverless
 
 ---
 
